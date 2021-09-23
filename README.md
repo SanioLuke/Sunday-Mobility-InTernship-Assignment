@@ -1,0 +1,2 @@
+# Sunday-Mobility-InTernship-Assignment
+The Assignment from Sunday Mobility Company to build a cricket based application that will provide the user with cricket teams of different countries in the world. From each countries, the team captain and all the members will be listed along with the feature to sort the names of the teams members according to their first name and last name. The data is made available to the user from API sources.
